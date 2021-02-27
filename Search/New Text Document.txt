@@ -1,0 +1,16 @@
+#s-in {
+    color: #fff;
+    font-size: 14px;
+    height: 35px;
+    width: 80px;
+    margin-right: 20px;
+    line-height: 35px;
+    text-align: center;
+    background: #1a73e8;
+    font-weight: 500;
+    border-radius: 4px;
+    letter-spacing: .25px;
+}
+#s-in:hover {
+    background: #2b7de9;
+    text-decoration: none;
